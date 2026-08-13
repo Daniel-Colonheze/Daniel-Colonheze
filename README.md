@@ -43,9 +43,6 @@ Sou estudante de Engenharia de Software na UTFPR e apaixonado por tecnologia e d
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Daniel-Colonheze&hide_border=true&background=0D1117&ring=2E9EF7&fire=845EC2&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2E9EF7&sideLabels=845EC2&dates=ffffff&stroke=ffffff" alt="streak stats"/>
 </p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Daniel-Colonheze&theme=radical" />
-</p>
 <br>
 
 
