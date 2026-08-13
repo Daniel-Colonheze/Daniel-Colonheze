@@ -1,20 +1,26 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:845EC2&height=200&section=header&text=Daniel%20Colonheze&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Estudante%20de%20Engenharia%20de%20Software%20%7C%20FullStack%20Dev&descAlignY=51&descSize=18" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:845EC2&height=200&section=header&text=Daniel%20Colonheze&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Estudante%20de%20Engenharia%20de%20Software%20%7C%20FullStack%20Dev&descAlignY=51&descSize=18" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Daniel+%F0%9F%91%8B;Estudante+de+Engenharia+de+Software;Desenvolvedor+Frontend+%40+AETA;Apaixonado+por+React+e+Next.js;Buscando+oportunidade+de+est%C3%A1gio+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Desenvolvedor+FullStack;Estudante+de+Engenharia+de+Software" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://visit-counter.vercel.app/counter?page=Daniel-Colonheze&style=flat-square" alt="visitor count" />
+  <img src="https://komarev.com/ghpvc/?username=Daniel-Colonheze&color=2E9EF7&style=flat-square&label=Visitas" alt="visitor count" />
 </p>
 
 <br>
 
 ## 🚀 Sobre mim
 
-Sou estudante de Engenharia de Software na UTFPR e apaixonado por tecnologia e desenvolvimento. Gosto de transformar ideias em projetos criativos, funcionais e diferentes, sempre buscando aprender algo novo e evoluir como desenvolvedor. Tenho interesse em desenvolvimento Full Stack, cloud e experiências interativas, e estou constantemente explorando novas tecnologias para criar projetos que unam criatividade, aprendizado e prática.
+- 🎓 Graduando em **Engenharia de Software** pela **UTFPR** (2025 – 2029)
+- 💻 Foco em **desenvolvimento Frontend** e integração com APIs
+- 🏢 Atualmente desenvolvendo o sistema de gestão da **AETA** (Associação de Estudantes de Tarumã)
+- 🌱 Estudando conceitos **FullStack** com Node.js, JavaScript e TypeScript
+- ☁️ Certificado em **Fundamentos de Computação em Nuvem (AWS re/Start)** pela Escola da Nuvem
+- 🌍 Inglês nível **C1 - Avançado**
+- 📫 Contato: **danielcolonhze@gmail.com**
 
 <br>
 
@@ -34,11 +40,19 @@ Sou estudante de Engenharia de Software na UTFPR e apaixonado por tecnologia e d
 
 <br>
 
+## 💼 Projeto em destaque
+
+**AETA — Sistema de Gestão de Transporte Escolar**
+Desenvolvimento completo do frontend, com interface responsiva e funcionalidades administrativas (CRUD de usuários, eventos, documentos e pagamentos).
+🔗 [aeta.com.br](https://aeta.com.br/)
+
+<br>
+
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel-Colonheze&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Colonheze&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Daniel-Colonheze&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Daniel-Colonheze&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -65,4 +79,4 @@ Sou estudante de Engenharia de Software na UTFPR e apaixonado por tecnologia e d
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:845EC2,100:2E9EF7&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:845EC2,100:2E9EF7&height=100&section=footer" />
