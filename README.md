@@ -14,13 +14,7 @@
 
 ## 🚀 Sobre mim
 
-- 🎓 Graduando em **Engenharia de Software** pela **UTFPR** (2025 – 2029)
-- 💻 Foco em **desenvolvimento Frontend** e integração com APIs
-- 🏢 Atualmente desenvolvendo o sistema de gestão da **AETA** (Associação de Estudantes de Tarumã)
-- 🌱 Estudando conceitos **FullStack** com Node.js, JavaScript e TypeScript
-- ☁️ Certificado em **Fundamentos de Computação em Nuvem (AWS re/Start)** pela Escola da Nuvem
-- 🌍 Inglês nível **C1 - Avançado**
-- 📫 Contato: **danielcolonhze@gmail.com**
+Sou estudante de Engenharia de Software na UTFPR e apaixonado por tecnologia e desenvolvimento. Gosto de transformar ideias em projetos criativos, funcionais e diferentes, sempre buscando aprender algo novo e evoluir como desenvolvedor. Tenho interesse em desenvolvimento Full Stack, cloud e experiências interativas, e estou constantemente explorando novas tecnologias para criar projetos que unam criatividade, aprendizado e prática.
 
 <br>
 
