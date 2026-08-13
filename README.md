@@ -34,8 +34,19 @@ Sou estudante de Engenharia de Software na UTFPR e apaixonado por tecnologia e d
 
 <br>
 
-📊 Estatísticas do GitHub
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel-Colonheze&show_icons=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=2E9EF7&icon_color=845EC2&text_color=c9d1d9&include_all_commits=true&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Colonheze&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=2E9EF7&text_color=c9d1d9" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=Daniel-Colonheze&hide_border=true&theme=radical&background=0D1117&ring=2E9EF7&fire=845EC2&currStreakLabel=2E9EF7" alt="streak stats"/> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Daniel-Colonheze&theme=radical" /> </p> <br>
+## 📊 Estatísticas do GitHub
+ 
+<p align="center">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Daniel-Colonheze&show_icons=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=2E9EF7&icon_color=845EC2&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Daniel-Colonheze&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=2E9EF7&text_color=c9d1d9" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Daniel-Colonheze&hide_border=true&theme=radical&background=0D1117&ring=2E9EF7&fire=845EC2&currStreakLabel=2E9EF7" alt="streak stats"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Daniel-Colonheze&theme=radical" />
+</p>
+<br>
 
 ## 🌐 Conecte-se comigo
 
