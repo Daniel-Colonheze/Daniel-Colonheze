@@ -34,14 +34,6 @@ Sou estudante de Engenharia de Software na UTFPR e apaixonado por tecnologia e d
 
 <br>
 
-## 💼 Projeto em destaque
-
-**AETA — Sistema de Gestão de Transporte Escolar**
-Desenvolvimento completo do frontend, com interface responsiva e funcionalidades administrativas (CRUD de usuários, eventos, documentos e pagamentos).
-🔗 [aeta.com.br](https://aeta.com.br/)
-
-<br>
-
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
