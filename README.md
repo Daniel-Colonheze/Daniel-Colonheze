@@ -1,139 +1,93 @@
-<div align="center">
+# Hi 👋, I'm Herbert Souza
 
-# Daniel de Oliveira Colonheze
+🚀 **Senior Software Engineer | JavaScript & .NET Specialist**  
+🇧🇷 Brazil
 
-### Software Engineering Student • FullStack Developer
+I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
+I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
 
-Desenvolvendo aplicações web, experiências interativas e explorando tecnologias de Cloud.
-
-<br>
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielcolonhze@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://portifolio-chi-beryl.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-colonheze/)
-
-</div>
+I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
 
 ---
 
-## 👨‍💻 About Me
+## 🌐 Where to find me
 
-Estudante de Engenharia de Software na UTFPR, com experiência prática em desenvolvimento web e foco em desenvolvimento Frontend e FullStack.
-
-Tenho experiência com criação de interfaces responsivas, integração com APIs, autenticação, CRUD e desenvolvimento de sistemas completos.
-
-Atualmente busco oportunidades de estágio ou desenvolvimento na área de tecnologia, enquanto continuo evoluindo meus conhecimentos em desenvolvimento web, Cloud e novas tecnologias.
+<p align="left">
+  <a href="https://github.com/herbertcarnaubadesouza">
+    <img src="https://img.shields.io/badge/GitHub-HERBERTCARNAUBADESOUZA-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://instagram.com/oreidosites">
+    <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@oreidosites">
+    <img src="https://img.shields.io/badge/TikTok-@OREIDOSITES-000000?style=for-the-badge&logo=tiktok" />
+  </a>
+  <a href="https://www.youtube.com/@oreidosites">
+    <img src="https://img.shields.io/badge/YouTube-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ Technologies
+## 🧠 What I do
+
+-   🏗️ SaaS & High-scale systems
+-   ⚡ Performance optimization
+-   🧩 Clean architecture & system design
+-   🔐 Secure APIs & authentication
+-   💳 Payments, subscriptions & business logic
+-   🤖 Automation & integrations
+-   📊 Dashboards & analytics
+-   🎓 Teaching & mentoring developers
+
+---
+
+## 🛠️ Tech Stack
 
 ### Frontend
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
+![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components)
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-### Database
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
 
 ### DevOps & Tools
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-### Cloud
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-
----
-
-## 🚀 Featured Project
-
-### 🚌 AETA — Associação de Estudantes de Tarumã
-
-Sistema de gestão de transporte escolar desenvolvido para a Associação de Estudantes de Tarumã.
-
-**Atuação:**
-- Desenvolvimento completo do frontend
-- Interfaces responsivas
-- Funcionalidades administrativas
-- CRUD de usuários
-- Gestão de eventos
-- Gestão de documentos
-- Gestão de pagamentos
-- Integração com APIs
-
-🔗 **[Visitar AETA](https://aeta.com.br/)**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 
 ---
 
-## 🎓 Education
+## 📊 GitHub Stats
 
-**Engenharia de Software — UTFPR**
-
-2025 — 2029 · Conclusão prevista
-
----
-
-## 📜 Certifications & Courses
-
-### ☁️ AWS re/Start — Escola da Nuvem
-
-Fundamentos de Computação em Nuvem  
-**300 horas · 2026**
-
-### 💻 FullStack Web com Node.js, JavaScript e TypeScript — Udemy
-
-**106 horas · 2026**
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 📊 GitHub
+## 🚀 Philosophy
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel-Colonheze&show_icons=true&theme=transparent&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Colonheze&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
+> _"Code is not just about solving problems.  
+> It's about building solutions that scale, last, and generate real value."_
 
 ---
 
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Daniel-Colonheze&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Daniel-Colonheze/Daniel-Colonheze/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-<div align="center">
-
-### Let's build something interesting.
-
-[Portfolio](https://portifolio-chi-beryl.vercel.app/) •
-[LinkedIn](https://www.linkedin.com/in/daniel-colonheze/) •
-[Gmail](mailto:danielcolonhze@gmail.com)
-
-</div>
+⭐ If you like my work, consider starring a repository  
+🤝 Always open to collaborations, partnerships, and cool ideas
