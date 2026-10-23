@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Desenvolvedor+FullStack;Estudante+de+Engenharia+de+Software" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Daniel-Colonheze&color=2E9EF7&style=flat-square&label=Visitas" alt="visitor count" />
-</p>
-
 <br>
 
 ## 🚀 Sobre mim
